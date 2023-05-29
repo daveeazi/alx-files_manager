@@ -1,4 +1,4 @@
-# Files Manager
+	# Files Manager
 
 A simple file management API built with Express, MongoDB, Redis, Bull, and Node.js.
 
@@ -42,5 +42,4 @@ Start the Redis and MongoDB services on your system and run `yarn start-server` 
 
 ## Authors
 
-+ SUARA AYOMIDE
-+ ERIC ALARIBE
++ DAVID ATAT
